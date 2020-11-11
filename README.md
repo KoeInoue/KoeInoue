@@ -1,7 +1,7 @@
-### Hi! I'm KoeInoue!  
+### Hi! I'm KoeInoue!
 ***  
 
-### Status  
+### Status
 ***  
 ![Visitor Count](https://komarev.com/ghpvc/?username=KoeInoue&color=blueviolet)  
 ![KoeInoue's github stats](https://github-readme-stats.vercel.app/api?username=KoeInoue&count_private=true&show_icons=true&theme=buefy)
