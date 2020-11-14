@@ -15,5 +15,6 @@
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 ## Status
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoeInoue&theme=buefy)
 ![KoeInoue's github stats](https://github-readme-stats.vercel.app/api?username=KoeInoue&count_private=true&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoeInoue&theme=buefy)  
+ 
