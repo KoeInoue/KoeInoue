@@ -23,6 +23,7 @@
 ## Skills
 <img align="left" alt="JS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 <img align="left" alt="Vue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />
+<img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
 <img align="left" alt="php" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />
 <img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />  
 <br />
