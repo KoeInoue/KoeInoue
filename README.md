@@ -21,12 +21,10 @@
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 ## Skills
-### Frontend <img align="left" alt="JS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img align="left" alt="JS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 <img align="left" alt="Vue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />
-
-### Backend <img align="left" alt="php" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />
-
-### Native app <img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
+<img align="left" alt="php" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />
+<img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
 
 ## Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoeInoue&theme=buefy)
