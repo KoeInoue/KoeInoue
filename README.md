@@ -1,7 +1,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=KoeInoue&color=blueviolet)  
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://twitter.com/KoInoue3" target="_blank">
+<a href="https://twitter.com/KoInoue3">
   <img align="left" alt="Koe's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://github.com/KoeInoue">
