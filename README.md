@@ -8,7 +8,7 @@
   <img align="left" alt="Koe's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://github.com/KoeInoue">
-  <img align="left" alt="Koe's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/woocommerce.svg" />
+  <img align="left" alt="Koe's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/workplace.svg" />
 </a>
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="180" />
