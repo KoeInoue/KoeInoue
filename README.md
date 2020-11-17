@@ -21,7 +21,9 @@
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 ## Skills
-<img align="left" alt="JS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<a href="https://developer.mozilla.org/ja/docs/Web/JavaScript">
+  <img align="left" alt="JS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+ </a>
 <img align="left" alt="Vue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />
 <img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
 <img align="left" alt="php" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />
